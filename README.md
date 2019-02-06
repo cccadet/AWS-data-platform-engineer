@@ -38,4 +38,30 @@ If not, what is the simplest solutions?
 Is there any data validation needed to greenlight the project?
 How important is runtime and performance?
 
-#
+## When should you consider using machine learning to solve a problem?
+1 Use Machine Learning when software logic is too difficult to code
+2 Use Machine Learning when the manual process is not cost effective
+3 Use Machine Learning when there is ample training data
+4 Use Machine Learning when the problem is formalizable as an ML Problem
+
+## When is Machine Learning NOT a Good Solution?
+1 No data
+2 No labels
+3 Need to launch quickly
+4 No tolerance for mistakes
+
+## Supervied Learning
+Labeled data
+### Classification (Spam or not-Spam)
+* Binary Classifications
+* Multi-Class Classifications
+### Regression (Price of ...)
+* Estimation
+
+## Unsupervised Learning
+No label
+### Clustering
+
+
+## Reinforcement Learning
+
