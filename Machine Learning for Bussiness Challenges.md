@@ -62,6 +62,20 @@ Labeled data
 No label
 ### Clustering
 
+## Machine Learning for Bussiness Challenges
+### When is machine learning a good solution?
+1 Difficult to directly code a soluction
+2 Difficult to scale a code-based solution
+3 Personalized output
+4 Functions change over time
+
+## Dat, Data, Data
+### ML Data Scope Wuestions
+* How much data is sufficient for building successful ML models?
+* Data Quality - How to deal with data quality issues?
+* Data preparation prior to model building
+
+
 
 ## Reinforcement Learning
 
