@@ -75,7 +75,23 @@ No label
 * Data Quality - How to deal with data quality issues?
 * Data preparation prior to model building
 
+## Image Classification: Vocabulary and Example
+Different Algorithms:
+* Näive Bayes
+* Decision Tree
+* Logistic Regression
+* Support Vector Machine
+* Deep Neural Network
 
+ Classifier
+ Prediction
+ Ground Truth Label
+ Training Instances
+ Training dataset vs. Validation dataset
+ Feature Vector
+ Learning algorithm
+ Trained Model
+ 
 
 ## Reinforcement Learning
 
