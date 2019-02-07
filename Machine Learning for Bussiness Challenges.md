@@ -93,5 +93,9 @@ Different Algorithms:
  Trained Model
  
 
-## Reinforcement Learning
-
+## Reinforcement Learning: Robot Programming Example
+### Difference
+1 No presentation of input/output pairs
+2 Rewars based
+3 Agent needs to gather useful experiences
+4 Evaluation of the system is often concurrent with learning
